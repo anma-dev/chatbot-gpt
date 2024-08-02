@@ -16,7 +16,7 @@ To start:
 
 Install Python  
 Install git  
-Copy this directory to your computer (preferably with git clone https://github.com/1nnovat1on/gpt_chatbot.git)  
+Copy this directory to your computer (preferably with git clone https://github.com/anma-dev/chatbot-gpt.git)  
 Open your terminal (CMD on Windows)  
 Either:  
   &emsp;input API keys on start up  
