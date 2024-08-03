@@ -1,4 +1,4 @@
-# gpt_chatbot
+# ✨ gpt_chatbot ✨
 This chatbot allows you to use your microphone to communicate with GPT-4. --Formerly GPT-3  
 
 It features the Pinecone API to create a longterm memory... it will loop in bits of conversation you've had, best it can.  
